@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#102C42"/>
+  <circle cx="1020" cy="120" r="290" fill="none" stroke="#159C91" stroke-width="2" opacity=".3"/>
+  <circle cx="1020" cy="120" r="210" fill="none" stroke="#159C91" stroke-width="2" opacity=".2"/>
+  <circle cx="980" cy="480" r="180" fill="#159C91" opacity=".1"/>
+  <text x="100" y="210" font-family="Arial,sans-serif" font-size="88" font-weight="bold" fill="#fff">ARAGTI</text>
+  <text x="105" y="260" font-family="Arial,sans-serif" font-size="27" letter-spacing="14" fill="#61D2C6">CONSULTING</text>
+  <rect x="105" y="326" width="90" height="5" rx="2" fill="#159C91"/>
+  <text x="105" y="397" font-family="Arial,sans-serif" font-size="39" font-weight="bold" fill="#fff">Evidence That Drives</text>
+  <text x="105" y="450" font-family="Arial,sans-serif" font-size="39" font-weight="bold" fill="#fff">Better Decisions.</text>
+  <text x="105" y="534" font-family="Arial,sans-serif" font-size="22" fill="#B5D5DC">Research &amp; Data-Driven Solutions</text>
+</svg>
