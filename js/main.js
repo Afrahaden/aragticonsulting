@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const feedback = document.getElementById("form-feedback");
 
   // Replace this value with the verified official address before publication.
-  const OFFICIAL_EMAIL = "afrahaden05@gmail.com";
+  const OFFICIAL_EMAIL = "info@aragticonsulting.com";
 
   form?.addEventListener("submit", event => {
     event.preventDefault();
